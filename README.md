@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @job-sk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web development :)
+- 🌱 I’m currently learning backend
+
+--------------------------------------------------
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=job-sk)](https://git.io/streak-stats)
 
 <!---
