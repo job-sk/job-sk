@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @job-sk
-- 👀 I’m interested in Web development :)
-- 🌱 I’m currently learning backend
-- 📩 How to reach me: jobshibukulathunkal99@gmail.com
-- 🏋️ Bodybuilding is my passion
+
 
 --------------------------------------------------
 
